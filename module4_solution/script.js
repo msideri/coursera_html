@@ -42,6 +42,7 @@ WARNING!!! WARNING!!!
       byeSpeaker.speak(names[i]);
     } else {
       helloSpeaker.speak(names[i]);
+    }
   }
 }) ();
   
